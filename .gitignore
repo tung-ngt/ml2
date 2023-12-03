@@ -3,3 +3,5 @@ __pycache__/
 Index
 *.data
 *.names
+*.csv
+*.txt
